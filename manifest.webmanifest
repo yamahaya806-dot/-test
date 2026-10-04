@@ -1,0 +1,12 @@
+{
+  "name": "EARTH / OBSERVE — 災害観測デスク",
+  "short_name": "災害観測",
+  "description": "保存した災害情報をオフラインで確認する観測デスク",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07111d",
+  "theme_color": "#07111d",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
